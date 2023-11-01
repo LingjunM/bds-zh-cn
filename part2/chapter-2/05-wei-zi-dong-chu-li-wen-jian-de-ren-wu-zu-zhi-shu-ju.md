@@ -72,7 +72,7 @@ zmaysA_R1.fastq zmaysB_R1.fastq
 
 表 2-1 列出了常用的 Unix 通配符(直接粘贴图片)
 
-<figure><img src="broken-reference" alt=""><figcaption><p>表2-1 常用unix文件名通配符</p></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231101205457.png" alt=""><figcaption><p>表2-1</p></figcaption></figure>
 
 [点此查看通配符使用](https://www.cnblogs.com/lixuwu/p/7816335.html)
 

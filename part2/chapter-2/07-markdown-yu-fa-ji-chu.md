@@ -40,15 +40,13 @@ Recommended trimming programs:
  - Scythe
 ```
 
-图2-1是由Pandoc以HTML5呈现的Markdown笔记本示例。Markdown之所以成为实验笔记本的好格式，是因为它在未渲染的纯文本中和在渲染的HTML中一样容易阅读。接下来，让我们看一下在这个例子中使用的markdown语法\[详细语法可以点击参考]\([https://markdown.com.cn/](https://markdown.com.cn/))。(参考表2-2)。
+图2-1是由Pandoc以HTML5呈现的Markdown笔记本示例。Markdown之所以成为实验笔记本的好格式，是因为它在未渲染的纯文本中和在渲染的HTML中一样容易阅读。接下来，让我们看一下在这个例子中使用的markdown语法。(参考表2-2)。
 
-<figure><img src="broken-reference" alt=""><figcaption><p>图2-1 MARKDOWN笔记本的HTML渲染</p></figcaption></figure>
+[详细语法](https://markdown.com.cn/)
 
-表2-2&#x20;
+<figure><img src="../../.gitbook/assets/Pasted image 20231101204109.png" alt=""><figcaption><p>图2-1</p></figcaption></figure>
 
-
-
-<figure><img src="../../.gitbook/assets/Pasted image 20231101205636.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Pasted image 20231101205636.png" alt=""><figcaption><p>表2-2</p></figcaption></figure>
 
 标题、列表和代码块等块元素都很简单。不同级别的标题 可以用不同数量的#来指定。例如
 
