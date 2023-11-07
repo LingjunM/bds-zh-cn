@@ -14,7 +14,7 @@
   * [06 使用健壮性和可重复性原则 让生活更简单](part1/chapter-1/06-shi-yong-jian-zhuang-xing-he-ke-zhong-fu-xing-yuan-ze-rang-sheng-huo-geng-jian-dan.md)
   * [07 健壮性研究的要点](part1/chapter-1/07-jian-zhuang-xing-yan-jiu-de-yao-dian.md)
   * [08 可重复性研究的准则](part1/chapter-1/08-ke-zhong-fu-xing-yan-jiu-de-zhun-ze.md)
-  * [09 持续提升你的生信数据技能](part1/chapter-1/09-chi-xu-ti-sheng-ni-de-sheng-xin-shu-ju-ji-neng.md)
+  * [09 持续提升你的数据技能](part1/chapter-1/09-chi-xu-ti-sheng-ni-de-shu-ju-ji-neng.md)
 
 ## PART2
 
